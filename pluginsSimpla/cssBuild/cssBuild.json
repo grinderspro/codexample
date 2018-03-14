@@ -1,0 +1,18 @@
+{
+  "settings": {
+
+    "enabled": 1,
+
+    "hosts": {
+      "hostTarget": "armored.com.ua",
+      "hostReal": ""
+    },
+
+    "css": {
+      "cssFile": "styles.css",
+      "cssFileBuild": "build.css",
+      "cssFileBuildMin": "build.min.css"
+    }
+
+  }
+}
